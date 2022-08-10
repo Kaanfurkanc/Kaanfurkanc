@@ -7,6 +7,8 @@
 
 ### Reach out to me 
 
+<hr>
+
 <p align="left">
 <a href="https://www.linkedin.com/in/kaan-furkan-%C3%A7ak%C4%B1ro%C4%9Flu-bb86b1211/" target="blank"><img align="center" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" alt="Kaanfurkanc" height="30" widht="40" /></a>
 <a href="https://www.instagram.com/kaanfurkanc/?hl=tr" target="blank"><img align="center" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" alt="Kaanfurkanc" height="30" widht="40" /></a>
@@ -14,6 +16,9 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 ###
+
+<hr> 
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height"40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>
@@ -25,6 +30,13 @@
 
 </br>
 
-### My github status :
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaanfurkanc)](https://github.com/anuraghazra/github-readme-stats)
+### My Top Langs :
+<hr>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaanfurkanc)](https://github.com/anuraghazra/github-readme-stats)
+
+### Spotify
+
+<hr>
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21kr227nv3uya3wgp35kvpgba&count=1)
