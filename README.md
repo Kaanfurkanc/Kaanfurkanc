@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning : C,C++and Python 
+- 🌱 I’m currently learning : C,Python ,java and solidity . 
 
 ### Reach out to me 
 
