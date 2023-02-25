@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning : Flutter , Unity , .NET. 
+- 🌱 I’m currently learning : Flutter , Unity , .NET core. 
 
 ### Reach out to me 
 
