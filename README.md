@@ -46,7 +46,9 @@
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21kr227nv3uya3wgp35kvpgba&count=1)
 
-</br>
+
 ### Visitors 
+
+</br>
 ![Visitor Count](https://profile-counter.glitch.me/{kaanfurkanc}/count.svg)
 
