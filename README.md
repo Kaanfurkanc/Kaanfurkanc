@@ -3,8 +3,8 @@
 
 
 
-- 🌱 I’m currently learning : Flutter , Unity , .NET core. 
-- 📫 Send an email : <a href="kfc0737@gmail.com">Gmail address.</a> 
+- 🌱 I’m currently learning : .NET core , MSSQL , Flutter .
+- 📫 Send an email : <a href="kfc0737@gmail.com">kfc0737@gmail.com</a> 
 
 ### Reach out to me 
 
