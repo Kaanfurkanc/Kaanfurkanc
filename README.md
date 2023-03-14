@@ -47,5 +47,5 @@
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21kr227nv3uya3wgp35kvpgba&count=1)
 
 </br>
-![](https://komarev.com/ghpvc/?username=kaanfurkanc&color=green)
+![](https://komarev.com/ghpvc/?username=kaanfurkanc)
 
