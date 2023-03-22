@@ -38,7 +38,9 @@
 ### My Top Langs :
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaanfurkanc)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=kaanfurkanc&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
+</p>
 
 ### Spotify
 
