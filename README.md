@@ -41,7 +41,6 @@
 <p align="left">
 	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaanfurkanc&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=true&theme=dark&hide=">
 
-	<img width="450em" align="right" src="https://github-readme-stats.vercel.app/api?username=kaanfurkanc&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 </p>
 
 ### Spotify
@@ -53,8 +52,10 @@
 
 ### Visitors 
 </br>
+<p align="center">
+	<a href="https://github.com/kaanfurkanc/my_github_profile_views_counter">
+		<img width="135em" src="https://github.com/kaanfurkanc/my_github_profile_views_counter/blob/master/svg/profile/badge.svg">
+	</a>
+</p>
 
-
-
-![Visitor Count](https://profile-counter.glitch.me/{kaanfurkanc}/count.svg)
 
