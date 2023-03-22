@@ -39,6 +39,6 @@
 <hr>
 
 <p align="left">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaanfurkanc&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=true&theme=dark&hide=">
+	<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaanfurkanc&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=true&theme=dark&hide=">
 </p>
 
