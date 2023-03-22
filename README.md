@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/kaan-furkan-%C3%A7ak%C4%B1ro%C4%9Flu-bb86b1211/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Kaan Furkan Çakıroğlu | LinkedIn" width="36px"/></a>
 <a href="https://www.instagram.com/kaanfurkanc/?hl=tr" target="blank"><img align="center" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" alt="Kaanfurkanc" height="30" widht="40" /></a>
-<a href="https://www.hackerrank.com/kaanfurkanc" target="blank"><img align="center" src="![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)" alt="Kaanfurkanc" height="30" widht="40" /></a>
+<a href="https://www.hackerrank.com/kaanfurkanc" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?" alt="Kaanfurkanc" height="30" widht="40" /></a>
 </p>
 
 ### :hammer_and_wrench: Languages and Tools :
