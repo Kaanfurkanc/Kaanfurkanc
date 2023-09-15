@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning : .NET core , MSSQL , HTML , CSS , Bootstrap and JavaScript .
+- 🌱 I’m currently learning : .NET core , MSSQL , microservice and javascript .
 - 📫 Send an email : <a href="kfc0737@gmail.com">kfc0737@gmail.com</a> 
 
 ### Reach out to me 
