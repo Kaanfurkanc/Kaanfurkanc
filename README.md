@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning : .NET core , MSSQL , microservice and javascript .
+- 🌱 I’m currently learning : .NET core, computer networks and industrial automation.
 - 📫 Send an email : <a href="kfc0737@gmail.com">kfc0737@gmail.com</a> 
 
 ### Reach out to me 
