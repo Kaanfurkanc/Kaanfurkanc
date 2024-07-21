@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning : .NET, Python, computer networks and industrial automation.
+- 🌱 I’m currently learning : .NET, Python, Spring Boot, and microservices.
 - 📫 Send an email : <a href="kfc0737@gmail.com">kfc0737@gmail.com</a> 
 
 ### Reach out to me 
