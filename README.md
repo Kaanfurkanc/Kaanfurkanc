@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning : .NET, Python, Spring Boot, and microservices.
+- 🌱 I’m currently learning : .NET, C++, and Python.
 - 📫 Send an email : <a href="kaanfurkancakiroglu@gmail.com">kaanfurkancakiroglu@gmail.com</a> 
 
 ### Reach out to me 
