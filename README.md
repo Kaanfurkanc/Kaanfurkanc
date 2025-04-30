@@ -31,6 +31,4 @@
 
 </br>
 
-### My Top Langs :
-<hr>
 
